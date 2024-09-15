@@ -1,0 +1,6 @@
+C:\Users\Shehryar\Downloads\Search Engine Simulator\x64\Debug\Project_GUI.vcxproj.AssemblyReference.cache
+C:\Users\Shehryar\Downloads\Search Engine Simulator\x64\Debug\Project_GUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Shehryar\Downloads\Search Engine Simulator\x64\Debug\ProjectGUI.Browser.resources
+C:\Users\Shehryar\Downloads\Search Engine Simulator\x64\Debug\ProjectGUI.Display.resources
+C:\Users\Shehryar\Downloads\Search Engine Simulator\x64\Debug\Project_GUI.vcxproj.GenerateResource.cache
+C:\Users\Shehryar\Downloads\Search Engine Simulator\x64\Debug\Project_GUI.exe
